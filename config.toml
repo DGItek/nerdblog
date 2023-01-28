@@ -1,4 +1,4 @@
-baseURL = "https://github.com/DGItek/nerdblog"
+baseURL = "https://dgitek.github.io/nerdblog/"
 languageCode = "en-us"
 title = "[DGI]tech's Technical Tales"
 theme = "m10c"

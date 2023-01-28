@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on [DGI]tech&#39;s Technical Tales</title>
-    <link>https://github.com/DGItek/nerdblog/categories/</link>
+    <link>https://dgitek.github.io/nerdblog/categories/</link>
     <description>Recent content in Categories on [DGI]tech&#39;s Technical Tales</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/DGItek/nerdblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dgitek.github.io/nerdblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
