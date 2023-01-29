@@ -6,6 +6,7 @@ theme = "m10c"
 [params]
   author = "[DGI]tech"
   description = "Future Tech Author"
+  avatar = "\static\River Vibes - Vector 1 (Grain).png"
 
   [[params.social]]
     icon = "github"
